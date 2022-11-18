@@ -1,0 +1,12 @@
+PIL
+pandas
+numpy
+warnings
+matplotlib
+spacy
+torch
+torchvision
+tqdm
+gradio
+wandb
+spacy
